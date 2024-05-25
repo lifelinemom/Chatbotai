@@ -46,7 +46,7 @@ async def start(_, m: Message):
 **➻ ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ**
 **──────────────**
 <b>||๏ ʜɪᴛ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ.||</b>
-<b>||©️ [🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ𝐁α∂ ❤️ᥫ᭡፝֟፝֟](https://t.me/II_BAD_BBY_II) ||</b>
+<b>||©️ [🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ𝐁α∂ ❤️ᥫ᭡፝֟፝֟](https://t.me/FUCK_0F_FEELINGS) ||</b>
 """,
             reply_markup=InlineKeyboardMarkup(DEV_OP),
         )
