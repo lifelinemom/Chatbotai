@@ -77,10 +77,3 @@ async def help(client: MickeyBot, m: Message):
         )
         await add_served_chat(m.chat.id)
 
-
-
-
-@MickeyBot.on_message(filters.new_chat_members)
-async def welcome(_, m: Message):
-    for member in m.new_chat_members:
-        await m.reply_photo(photo=random.choice(IMG), caption=START)
