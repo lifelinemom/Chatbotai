@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/Badhacker98/Chat_Ai_Bot",
+  "repository": "https://github.com/lifelinemom/Chatbotai",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
@@ -36,7 +36,7 @@
     "OWNER_ID": {
       "description": "User id of the user who will known as owner of the bot.",
       "required": true,
-      "value": "6566179661"
+      "value": "7083582979"
     }
   }
 }
