@@ -6,8 +6,8 @@ from Mickey import MickeyBot
 
 DEV_OP = [
     [
-        InlineKeyboardButton(text=" ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/II_BAD_BBY_II"),
-        InlineKeyboardButton(text=" ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/ll_THE_BAD_BOT_ll"),
+        InlineKeyboardButton(text=" ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/FUCK_0F_FEELINGS"),
+        InlineKeyboardButton(text=" ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/innocent_world_chat"),
     ],
     [
         InlineKeyboardButton(text=" ᴄʜᴀᴛʙᴏᴛ 🐳", callback_data="CHATBOT_CMD"),
@@ -73,7 +73,7 @@ CHATBOT_ON = [
 
 MUSIC_BACK_BTN = [
     [
-        InlineKeyboardButton(text=" ᴍᴜsɪᴄ 🎵 ", url=f"https://t.me/MissBroken_Bot"),
+        InlineKeyboardButton(text=" ᴍᴜsɪᴄ 🎵 ", url=f"https://t.me/INNOCENTxMUSICBOT"),
     ],
 ]
 
